@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# BATTLESHIP GAME
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Table of Contents**
+
+[TOC]
+
+
+## Description
+The application is a simplified React version of the Battleship Game; Player vs. CPU.
+
+
+## Features
+- 10x10 board size.
+- 1 carrier of 4 spaces.
+- 3 cruisers of 3 spaces.
+- 1 submarine of 2 spaces.
+- Ships must be straight lines.
+- Ships can be placed horizontally or vertically.
+
+
+## Installation
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- v14.18.0 node version (6.14.15 npm version).
+
+- Install the application dependencies with the command: `npm install`
+
 
 ## Available Scripts
 
@@ -39,8 +63,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
