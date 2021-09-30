@@ -1,9 +1,5 @@
 # BATTLESHIP GAME
 
-**Table of Contents**
-
-[TOC]
-
 
 ## Description
 The application is a simplified React version of the Battleship Game; Player vs. CPU.
@@ -23,7 +19,7 @@ The application is a simplified React version of the Battleship Game; Player vs.
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - v14.18.0 node version (6.14.15 npm version).
 
-- Install the application dependencies with the command: `npm install`
+- Install the application dependencies with the `npm install` command.
 
 
 ## Available Scripts
